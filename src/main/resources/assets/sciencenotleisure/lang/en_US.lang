@@ -3678,20 +3678,5 @@ Info_RealArtificialStar_06=Material Recycling Probability
 NEI.RealAntimatterFuelRodGeneratingRecipe.01=Chance to recycle some materials. Probability affected by module level.
 NEI.RealArtificialStarGeneratingRecipes.specialValue=Generates:
 
-Tooltip_RealArtificialStar_10=§b§oTwinkle twinkle little star, how I wonder what you are.
-NameDysonSwarm=Dyson Swarm Ground Unit
-DysonSwarmRecipeType=Dyson Swarm
-Tooltip_DysonSwarm_00=§7Controls the §bDyson Swarm §7in orbit.
-Tooltip_DysonSwarm_01=§7Requires a §fDyson Swarm Module §7to function.
-Tooltip_DysonSwarm_02=§7Generates vast amounts of energy from the star.
-Tooltip_DysonSwarm_03=§bThe ultimate power source.
-Tooltip_DysonSwarm_Casing=§7Any §fDyson Swarm Casing
-NameCosmicAnsible=Cosmic Ansible
-CosmicAnsibleRecipeType=Cosmic Ansible
-Tooltip_CosmicAnsible_00=§7Instantaneous communication across the universe.
-Tooltip_CosmicAnsible_01=§7Allows for remote control of machines.
-Tooltip_CosmicAnsible_02=§bThe Ender's Game.
-Tooltip_CosmicAnsible_Casing=§7Any §fAdvanced Computer Casing
-
 gui.AssemblerMatrix.button.upload_pattern=Upload pattern to available §9Assembler Matrix§r in current network.
 text.AssemblerMatrix.tooltip.0=A similar pattern exists. Upload skipped and blank pattern returned!
